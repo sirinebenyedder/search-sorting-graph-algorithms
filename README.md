@@ -128,10 +128,4 @@ https://github.com/user-attachments/assets/ae02d4ac-cfe6-4342-ab18-66656cd7954e
 https://github.com/user-attachments/assets/a0c0da83-8a39-4903-a592-92748f38bac0
 </details>
 
-<details>
-<summary><b>7. Full Algorithm Execution (Complete)</b></summary>
 
-<div align="center">
-  <video src="https://github.com/sirinebenyedder/search-sorting-graph-algorithms/raw/main/media/5complet.mp4" width="100%" controls></video>
-</div>
-</details>
