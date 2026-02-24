@@ -6,6 +6,10 @@ An educational and research-oriented project designed to bridge the gap between 
 
 This project provides a rigorous analysis and animated visualization of sorting algorithms using Manim (Mathematical Animation Engine).
 
+
+https://github.com/user-attachments/assets/a0c0da83-8a39-4903-a592-92748f38bac0
+
+
 🎥 Animation Output
 
 visualization is located in the media/ folder.
