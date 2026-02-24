@@ -54,15 +54,14 @@ Simply upload the `.ipynb` file to Colab and run the first cell containing the `
 
 This project requires \*\*FFmpeg\*\* and \*\*Cairo\*\* for media rendering.
 
-```bash
-
+ ```bash 
 
 sudo apt-get update
 
 sudo apt-get install -y libcairo2-dev libpango1.0-dev ffmpeg
 
 pip install -r requirements.txt
-
+``` 
 
 🎥🎥🎥 Algorithm Visualizations
 
