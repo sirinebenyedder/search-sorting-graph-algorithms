@@ -7,8 +7,6 @@ An educational and research-oriented project designed to bridge the gap between 
 This project provides a rigorous analysis and animated visualization of sorting algorithms using Manim (Mathematical Animation Engine).
 
 
-https://github.com/user-attachments/assets/a0c0da83-8a39-4903-a592-92748f38bac0
-
 
 🎥 Animation Output
 
@@ -77,49 +75,57 @@ Explore how different data structures and logic optimize the sorting process.
 <details>
 <summary><b>1. Quick Sort (Divide & Conquer)</b></summary>
 
-<div align="center">
-  <video src="https://github.com/sirinebenyedder/search-sorting-graph-algorithms/raw/main/media/quicksort.mp4" width="100%" controls></video>
-</div>
+
+
+https://github.com/user-attachments/assets/6c8ee94e-5e33-4ae7-bc70-7ac74259733b
+
+
 </details>
 
 <details>
 <summary><b>2. Heap Sort (Binary Tree Logic)</b></summary>
 
-<div align="center">
-  <video src="https://github.com/sirinebenyedder/search-sorting-graph-algorithms/raw/main/media/headsorting.mp4" width="100%" controls></video>
-</div>
+
+https://github.com/user-attachments/assets/3e673b7f-e8ea-4586-990e-ddbd21d94e27
+
+
 </details>
 
 <details>
-<summary><b>3. Bubble Sort (The Classic)</b></summary>
+<summary><b>3. Bubble Sort </b></summary>
 
-<div align="center">
-  <video src="https://github.com/sirinebenyedder/search-sorting-graph-algorithms/raw/main/media/BubbleSortVisualization.mp4" width="100%" controls></video>
-</div>
+
+
+https://github.com/user-attachments/assets/1d801a81-4fa9-4c1b-b5aa-6995868ed6a0
+
+
 </details>
 
 <details>
-<summary><b>4. Bogo Sort (Randomization)</b></summary>
+<summary><b>4. Bogo Sort </b></summary>
 
-<div align="center">
-  <video src="https://github.com/sirinebenyedder/search-sorting-graph-algorithms/raw/main/media/BogoSortAnimation%20(3).mp4" width="100%" controls></video>
-</div>
+
+
+https://github.com/user-attachments/assets/93caba6d-4b36-47ef-aa29-c96c532aa7f0
+
+
 </details>
 
 <details>
 <summary><b>5. Graph Coloring - Example A</b></summary>
 
-<div align="center">
-  <video src="https://github.com/sirinebenyedder/search-sorting-graph-algorithms/raw/main/media/colorationdegraph.mp4" width="100%" controls></video>
-</div>
+
+
+https://github.com/user-attachments/assets/ae02d4ac-cfe6-4342-ab18-66656cd7954e
+
+
 </details>
 
 <details>
 <summary><b>6. Graph Coloring - Example B</b></summary>
 
-<div align="center">
-  <video src="https://github.com/sirinebenyedder/search-sorting-graph-algorithms/raw/main/media/t%C3%A9l%C3%A9chargement.mp4" width="100%" controls></video>
-</div>
+
+https://github.com/user-attachments/assets/a0c0da83-8a39-4903-a592-92748f38bac0
 </details>
 
 <details>
