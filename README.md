@@ -29,7 +29,7 @@ This project includes:
 
 $🇫🇷 Academic Presentation (Francophone Standard)
 
-For my colleagues and recruiters who prefer documentation in French, I have included a comprehensive presentation following our university's academic standards:
+For my colleagues, I have included a comprehensive presentation following our university's academic standards:
 
 * File: Algo.pptx 
 * Content: 
